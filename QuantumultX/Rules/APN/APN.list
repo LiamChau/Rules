@@ -1,0 +1,6 @@
+# Apple Push Notification Service
+HOST-SUFFIX,push.apple.com,APN
+HOST-SUFFIX,gateway.push.apple.com,APN
+HOST-SUFFIX,api.push.apple.com,APN
+HOST-SUFFIX,sandbox.push.apple.com,APN
+HOST-SUFFIX,courier.push.apple.com,APN
