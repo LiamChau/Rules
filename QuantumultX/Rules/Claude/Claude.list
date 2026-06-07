@@ -1,0 +1,20 @@
+# Claude Web
+HOST-SUFFIX,claude.ai,Claude
+
+# Claude API
+HOST-SUFFIX,anthropic.com,Claude
+
+# Claude Console
+HOST-SUFFIX,console.anthropic.com,Claude
+HOST-SUFFIX,platform.claude.com,Claude
+
+# Claude Addon / Web
+HOST-SUFFIX,pivot.claude.ai,Claude
+
+# Telemetry
+HOST-SUFFIX,statsig.anthropic.com,Claude
+HOST-SUFFIX,statsigapi.net,Claude
+
+# Error Reporting
+HOST-SUFFIX,sentry.io,Claude
+HOST-SUFFIX,sentry-cdn.com,Claude
