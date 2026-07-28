@@ -1,0 +1,9 @@
+# ============================================================
+# Quantumult X 分流规则 - 墨墨背单词 (Maimemo)
+# 用途: 让墨墨背单词 App 的网络请求走代理策略
+# 最后更新: 2026-07-28
+# ============================================================
+
+HOST-SUFFIX,maimemo.com,Maimemo
+HOST-SUFFIX,maimemo.oss-cn-hangzhou.aliyuncs.com,Maimemo
+HOST-SUFFIX,maimemostatus.com,Maimemo
