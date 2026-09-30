@@ -1,9 +1,10 @@
-DOMAIN-SUFFIX,emby.moe
-DOMAIN-SUFFIX,xxlb.net
-DOMAIN-SUFFIX,loseremby.org
-DOMAIN-SUFFIX,zabc.net
+HOST-SUFFIX,emby.moe,Emby
+HOST-SUFFIX,xxlb.net,Emby
+HOST-SUFFIX,loseremby.org,Emby
+HOST-SUFFIX,zabc.net,Emby
 HOST-SUFFIX,ykk.emby.moe,Emby
 HOST-SUFFIX,pro.emby.moe,Emby
+HOST-SUFFIX,hcemby.emby.moe,Emby
 HOST,emby.enjoyit.eu.org,Emby
 HOST,emby.lcloud.wiki,Emby
 HOST,notnetflix.cos.cat,Emby
