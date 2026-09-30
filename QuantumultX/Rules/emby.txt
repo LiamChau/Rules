@@ -1,5 +1,8 @@
 payload:
-
+DOMAIN-SUFFIX,emby.moe
+DOMAIN-SUFFIX,xxlb.net
+DOMAIN-SUFFIX,loseremby.org
+DOMAIN-SUFFIX,zabc.net
 DOMAIN-SUFFIX,ykk.emby.moe
 DOMAIN-SUFFIX,pro.emby.moe
 DOMAIN,emby.enjoyit.eu.org
@@ -54,3 +57,4 @@ DOMAIN-KEYWORD,emby.wtf
 DOMAIN-KEYWORD,jmsooo
 DOMAIN-KEYWORD,odysseyplus
 PROCESS-NAME,com.mb.android
+IP-CIDR,154.12.52.149/25
