@@ -1,3 +1,7 @@
+DOMAIN-SUFFIX,emby.moe
+DOMAIN-SUFFIX,xxlb.net
+DOMAIN-SUFFIX,loseremby.org
+DOMAIN-SUFFIX,zabc.net
 HOST-SUFFIX,ykk.emby.moe,Emby
 HOST-SUFFIX,pro.emby.moe,Emby
 HOST,emby.enjoyit.eu.org,Emby
@@ -51,3 +55,4 @@ HOST-SUFFIX,xmsl.org,Emby
 HOST-KEYWORD,emby.wtf,Emby
 HOST-KEYWORD,jmsooo,Emby
 HOST-KEYWORD,odysseyplus,Emby
+IP-CIDR,154.12.52.149/25
